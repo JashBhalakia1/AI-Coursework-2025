@@ -18,5 +18,5 @@ Each question is solved in a separate cell in the Jupyter Notebook (`Python_Refr
 ### Q6. Input Values into an Array and Compute Average
  
 ## 📂 Files in this Repository
-- `Practical_Exercise1.ipynb` — Jupyter Notebook with solutions for Q1–Q6.  
+- `Python_Refresher.ipynb` — Jupyter Notebook with solutions for Q1–Q6.  
 - Screenshot of the Codility task is attached seperately.
